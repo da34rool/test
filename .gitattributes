@@ -1,1 +1,2 @@
 sonic[[:space:]]ova[[:space:]]jap[[:space:]]dub.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
